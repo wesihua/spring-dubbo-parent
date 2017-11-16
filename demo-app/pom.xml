@@ -3,9 +3,8 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>com.wei.spring</groupId>
-		<artifactId>spring-parent</artifactId>
+		<artifactId>spring-dubbo-parent</artifactId>
 		<version>1.0-SNAPSHOT</version>
-		<relativePath>../spring-parent/pom.xml</relativePath>
 	</parent>
 	<artifactId>demo-app</artifactId>
 	<packaging>jar</packaging>
