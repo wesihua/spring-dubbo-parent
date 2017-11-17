@@ -1,6 +1,9 @@
 package com.wei.spring.domain;
 
 import java.io.Serializable;
+import java.util.HashMap;
+import java.util.Hashtable;
+import java.util.Map;
 
 /**
  * 用户对象
@@ -47,5 +50,4 @@ public class UserInfo implements Serializable {
 	public void setPassword(String password) {
 		this.password = password;
 	}
-	
 }
